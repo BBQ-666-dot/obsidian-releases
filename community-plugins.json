@@ -71405,5 +71405,12 @@
     "author": "blursedperf",
     "description": "Customize DoomEsque theme palettes, spacing, indentation guides, and sticky hover preview popovers. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "blursedperf/obsidian-doomesque-settings"
+  },
+  {
+    "id": "interlinear-gloss",
+    "name": "Interlinear Gloss",
+    "author": "bbq25",
+    "description": "Local-first bilingual reading for Obsidian: persistent translations, keyword glosses, PDF word highlights, offline ECDICT lookup, and local Ollama support.",
+    "repo": "BBQ-666-dot/interlinear-gloss"
   }
 ]
